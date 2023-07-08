@@ -9,10 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=svarts&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=svarts&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=svarts&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=svarts&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
