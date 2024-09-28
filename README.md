@@ -1,3 +1,3 @@
-Hi! a frontend developer from Turkey 🏔️
+Hi! a software developer from Turkey 🏔️
 
 [esmakaraca.dev](https://esmakaraca.dev)
